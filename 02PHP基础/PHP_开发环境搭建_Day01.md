@@ -254,7 +254,7 @@ listen 192.168.0.10
 
 ****
 
-###<VirtualHost> </VirtualHost> 配置段
+### <VirtualHost> </VirtualHost> 配置段
 * 描述: <VirtualHost> ==是配置虚拟主机的配置段==
 * 提示:一个虚拟主机有一对<VirtualHost>标记,两个虚拟主机有两对<VirtualHost>标记,依次类推
 
